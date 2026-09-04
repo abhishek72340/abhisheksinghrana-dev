@@ -48,7 +48,7 @@ export default function AboutSection() {
               YEARS EXPERIENCE
             </div>
             <div className="text-3xl sm:text-4xl font-black text-white tracking-tight font-sans">
-              3 YEARS
+              3
             </div>
           </div>
           <div className="bg-zinc-950 p-6 space-y-2 hover:bg-black transition-colors">
